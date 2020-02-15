@@ -1,0 +1,4 @@
+unmention
+negative
+neutral
+positive

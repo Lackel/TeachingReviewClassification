@@ -1,0 +1,4 @@
+attitude
+content
+method
+effect
